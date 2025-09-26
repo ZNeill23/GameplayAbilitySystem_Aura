@@ -1,8 +1,6 @@
 // Copyright Zack Neill
 
-
 #include "Character/AuraCharacter.h"
-
 #include "GameFramework/CharacterMovementComponent.h"
 
 AAuraCharacter::AAuraCharacter()
