@@ -1,11 +1,12 @@
 // Copyright Zack Neill
 
 #include "AbilitySystem/AuraAttributeSet.h"
-
+#include "Player/AuraPlayerController.h"
 #include "AbilitySystemBlueprintLibrary.h"
 #include "GameFramework/Character.h"
 #include "GameplayEffectExtension.h"
 #include "Net/UnrealNetwork.h"
+
 
 UAuraAttributeSet::UAuraAttributeSet()
 {
